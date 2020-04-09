@@ -1,5 +1,5 @@
 {
-  "name": "circleci-orb-example",
+  "name": "circleci-orb-example-test",
   "version": "1.0.0",
   "description": "Cypress CircleCI Orb example",
   "main": "index.js",
